@@ -1,7 +1,7 @@
 # Internet in Azerbaijan
 The internet in Azerbaijan began to develop in 1993.
 
-![](/Users/sabuhiabbasov/Downloads/Optimized-ForSite_auto_x2.jpg)
+![image](https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/bfa31bc1-9fbe-4933-866a-620e97637c87)
 
 Main types of internet access:
 
