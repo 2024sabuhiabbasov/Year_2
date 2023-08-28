@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e79805-6c70-430a-8db7-de09f7e6990f" name="Changes" comment="UPDATE quiz069.md">
-      <change afterPath="$PROJECT_DIR$/Quizzes/quiz_071.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quizzes/Codes/quiz_071.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +119,7 @@
       <workItem from="1692748466037" duration="417000" />
       <workItem from="1692942542242" duration="2043000" />
       <workItem from="1693179752937" duration="1357000" />
+      <workItem from="1693201952953" duration="704000" />
     </task>
     <task id="LOCAL-00001" summary="UPDATE quiz069.md">
       <option name="closed" value="true" />
