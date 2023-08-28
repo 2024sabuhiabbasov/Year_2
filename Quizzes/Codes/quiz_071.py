@@ -1,4 +1,5 @@
 import random
+import time
 
 class ipv6machine():
     def __init__(self, number: int):
@@ -26,5 +27,8 @@ class ipv6machine():
             list.append(ip)
         return list
 
-ipv6 = ipv6machine(99)
+# start_time = time.time()
+ipv6 = ipv6machine(1000)
+# end_time = time.time()
 print(ipv6.list_generator())
+# print(end_time-start_time)
