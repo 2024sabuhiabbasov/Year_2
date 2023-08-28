@@ -1,3 +1,5 @@
+<img src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/9ee22c46-909c-4916-b0ae-8cca8ab40201" width="max">
+
 # Year_2 Repository for IB Computer Science Course
 
 Welcome to my Year_2 repository for the IB Computer Science course at UWC ISAK Japan! This repository is where I will be keeping track of materials and projects related to my second year of studying computer science.
