@@ -66,3 +66,6 @@ ipv6_list = ipv6.list_generator()
 for i, ip in enumerate(ipv6_list, start=1):
     print(f"{i}: {ip}")
 ```
+
+## Proof
+<img width="max" alt="Screenshot 2023-08-28 at 15 25 56" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/e66a2341-1719-4613-a80e-2d75e40c5a1d">
