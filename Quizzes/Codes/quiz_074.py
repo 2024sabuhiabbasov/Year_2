@@ -1,9 +1,10 @@
+from math import ceil
+
+
 def build_data_pkg(mac_rx: str, ip_rx: str, mac_sx: str, ip_sx: str, data: str):
     ip_mac = f"{mac_rx}|{ip_rx}|{mac_sx}|{ip_sx}|"
     output = []
-    length = len(data)
-    if length % 4 != 0:
-        length = length // 4 + 1
+    length = ceil(len(data) / 4)
     for i in range(length):
         load = data[:4]
         if len(load) < 4:
