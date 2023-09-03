@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e79805-6c70-430a-8db7-de09f7e6990f" name="Changes" comment="Update README.md">
+      <change afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_069.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quizzes/Codes/quiz_074.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_074.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +64,7 @@
       <recent name="$PROJECT_DIR$/Quizzes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quiz_074">
+  <component name="RunManager" selected="Python.quiz_069">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Year_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +79,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_069" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Year_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quizzes/Codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quizzes/Codes/quiz_069.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,6 +199,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quiz_069" />
         <item itemvalue="Python.quiz_074" />
         <item itemvalue="Python.quiz_072" />
         <item itemvalue="Python.wifi_speed_test" />
@@ -198,7 +224,8 @@
       <workItem from="1693264773865" duration="3733000" />
       <workItem from="1693369481523" duration="153000" />
       <workItem from="1693369655953" duration="684000" />
-      <workItem from="1693547740873" duration="1822000" />
+      <workItem from="1693547740873" duration="2433000" />
+      <workItem from="1693722082617" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="UPDATE quiz069.md">
       <option name="closed" value="true" />
