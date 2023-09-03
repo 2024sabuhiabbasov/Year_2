@@ -2,8 +2,6 @@
 
 <img width="max" alt="Screenshot 2023-09-03 at 15 39 07" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/4645be97-e3b4-428b-b012-5e966a203f63">
 
-One array holds the daily sales of a clothing store in no particular order. You are tasked with finding the profit of the best day in comparison to the worst day. That is, how much more was sold in Japanese Yens the best day?
-
 ## Solution
 ```python
 # Define a function that takes a list of sales and returns the difference between the highest and lowest profits.
