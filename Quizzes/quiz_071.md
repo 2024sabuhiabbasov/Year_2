@@ -2,6 +2,9 @@
 <img width="max" alt="Screenshot 2023-08-28 at 15 11 21" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/fbc82d4b-8a27-439a-8f06-f27fd8b819ac">
 
 ## Solution
+<img width="max" alt="Screenshot 2023-09-03 at 16 27 43" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/826e5925-d388-4147-aaae-7772f941a35b">
+<img width="max" alt="Screenshot 2023-09-03 at 16 27 57" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/95093c19-6aac-49b4-aa02-806f2a3211ad">
+
 
 ```python
 import random
