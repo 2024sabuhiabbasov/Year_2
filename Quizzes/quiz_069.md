@@ -1,10 +1,8 @@
-![pexels-maxime-francis-2246476](https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/eb4c00ee-5fd0-406e-8dbe-ac85bdc49b56)# Quiz 069
-
 <img width="max" alt="Screenshot 2023-09-03 at 15 39 07" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/4645be97-e3b4-428b-b012-5e966a203f63">
 
+## Solution
 <img width="max" alt="Screenshot 2023-09-03 at 16 25 40" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/0a0dda7c-6ff2-456c-be6b-bc6c4e7185da">
 
-## Solution
 ```python
 # Define a function that takes a list of sales and returns the difference between the highest and lowest profits.
 def profit(sales: list) -> int:
