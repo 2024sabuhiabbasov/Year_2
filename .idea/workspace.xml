@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e79805-6c70-430a-8db7-de09f7e6990f" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_075.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzes/Codes/quiz_075.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_075.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +228,8 @@
       <workItem from="1693722082617" duration="1635000" />
       <workItem from="1693724184764" duration="30000" />
       <workItem from="1693782789599" duration="804000" />
-      <workItem from="1693874673401" duration="35000" />
+      <workItem from="1693874673401" duration="56000" />
+      <workItem from="1693876798708" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="UPDATE quiz069.md">
       <option name="closed" value="true" />
