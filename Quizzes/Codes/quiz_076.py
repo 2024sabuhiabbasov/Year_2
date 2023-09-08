@@ -25,8 +25,12 @@ class checker:
                 self.error = True
                 original[i] = copy_1[i]
 
-        return self.error, ''.join(original)
+        if self.error:
+            return self.error, ''.join(original)
+        else:
+            return self.error
 
-error_checker = checker("101010101010")
+
+error_checker = checker("101010101011")
 output = error_checker.error_check()
 print(output)
