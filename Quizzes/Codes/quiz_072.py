@@ -1,5 +1,6 @@
 import random
 
+
 # Define a class to generate MAC addresses
 class MacAddressGenerator:
     def __init__(self, number: int):
@@ -37,6 +38,7 @@ class MacAddressGenerator:
         # Return the list of generated unique MAC addresses
         return mac_list
 
+
 # Get user input for the number of MAC addresses to generate
 n = int(input("Please enter the number of MAC addresses you want to generate: "))
 
@@ -49,4 +51,3 @@ mac_list = mac_generator.list_generator()
 # Print the generated MAC addresses along with their index
 for i, mac in enumerate(mac_list, start=1):
     print(f"{i}: {mac}")
-
