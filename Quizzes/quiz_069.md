@@ -1,3 +1,5 @@
+# Quiz 069
+
 <img width="max" alt="Screenshot 2023-09-03 at 15 39 07" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/4645be97-e3b4-428b-b012-5e966a203f63">
 
 ## Solution
