@@ -58,3 +58,5 @@ mac_list = mac_generator.list_generator()
 for i, mac in enumerate(mac_list, start=1):
     print(f"{i}: {mac}")
 ```
+## Proof
+<img width="max" alt="Screenshot 2023-09-08 at 15 42 27" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/edf35a46-9e1e-4fd0-94d7-0dc3a35e1261">
