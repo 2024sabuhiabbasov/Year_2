@@ -14,16 +14,22 @@ class checker:
         # Iterate through the remaining characters in 'data'
         for letter in self.data:
             if letter == '1':
-                sum_of_ones = sum_of_ones + 1  # Count '1's
+                sum_of_ones = sum_of_ones + 1 # Count '1's
 
-        # Check if the count of '1's is even and the first character is '1'
-        if sum_of_ones % 2 == 0 and first_letter == '1':
+        # Check if the count of '1's is even and the first character is '1',
+        # or if the count is odd and the first character is '0'
+        if (sum_of_ones % 2 == 0 and first_letter == '1') or (sum_of_ones % 2 == 1 and first_letter == '0'):
             return self.error  # Return False (no error)
         else:
-            return self.error  # Return True (error)
+            self.error = True  # Set 'error' to True
+            # Flip the first character if there's an error
+            first_letter = '0' if first_letter == '1' else '1'
+            self.data = first_letter + self.data  # Correct the data
+            return self.error, self.data  # Return True (error) and corrected data
 
-# Create an instance of the 'checker' class with input data "101010101011"
-error_checker = checker("101010101011")
+
+# Create an instance of the 'checker' class with input data "000010001011"
+error_checker = checker("101010001011")
 
 # Call the 'error_check' method to check for errors and store the result
 output = error_checker.error_check()
