@@ -39,6 +39,7 @@ class checker:
         else:
             return self.error  # Return False (no error)
 
+
 # Create an instance of the 'checker' class with input data "101010101011"
 error_checker = checker("101010101011")
 
