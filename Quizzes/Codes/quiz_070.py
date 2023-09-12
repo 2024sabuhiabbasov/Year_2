@@ -10,7 +10,7 @@ def generate_ipv4():
                     address = f"{i}.{j}.{k}.{l}"
                     addresses.append(address)
 
-                    # Print the first 10 generated addresses as an example
+                    # Print the first 20 generated addresses as an example
                     if len(addresses) <= 20:
                         print(f"Generated IP: {address}")
 
