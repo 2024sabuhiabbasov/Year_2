@@ -41,7 +41,7 @@ class checker:
 
 
 # Create an instance of the 'checker' class with input data "101010101011"
-error_checker = checker("101010101011")
+error_checker = checker("101010101010")
 
 # Call the 'error_check' method to check for errors and store the result
 output = error_checker.error_check()
