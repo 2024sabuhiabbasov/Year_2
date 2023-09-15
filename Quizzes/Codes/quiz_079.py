@@ -7,10 +7,10 @@ class palindromic:
     def reverser(self, number: int):
         number = str(number)
         number = list(number)
-        reversed = ''
+        reversed_number = ''
         for i in range(len(number) - 1, -1, -1):
-            reversed += number[i]
-        return int(reversed)
+            reversed_number += number[i]
+        return int(reversed_number)
 
     def reverse_checker(self, number: int):
         return number == self.reverser(number)
