@@ -8,7 +8,7 @@ class layer4_firewall:
 
         # Convert the first 16 bits to an integer
         port_number = int(port_bits, 2)
-        print(port_number)
+        print(f"Port number: {port_number}")
 
         # Check if the port number is 80 or 22123
         if port_number == 80 or port_number == 22123:
@@ -18,7 +18,7 @@ class layer4_firewall:
 
 
 # Create an instance of the layer4_firewall class with the binary data
-layer_4 = layer4_firewall("00000000010100001011")  # 80
+layer_4 = layer4_firewall("00000000011001001011")  # 80
 
 # Call the msg method and retrieve the status and message
 status, message = layer_4.msg()
