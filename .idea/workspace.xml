@@ -9,7 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43e79805-6c70-430a-8db7-de09f7e6990f" name="Changes" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Notes/collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Notes/collection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="$PROJECT_DIR$/Quizzes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.collection">
+  <component name="RunManager" selected="Python.quiz_079">
     <configuration name="collection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Year_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,8 +198,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.collection" />
         <item itemvalue="Python.quiz_079" />
+        <item itemvalue="Python.collection" />
         <item itemvalue="Python.quiz_078" />
         <item itemvalue="Python.quiz_070" />
         <item itemvalue="Python.quiz_069" />
@@ -234,7 +233,7 @@
       <workItem from="1694140223139" duration="5774000" />
       <workItem from="1694474479591" duration="14196000" />
       <workItem from="1694755927043" duration="2681000" />
-      <workItem from="1695078109995" duration="1146000" />
+      <workItem from="1695078109995" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="UPDATE quiz069.md">
       <option name="closed" value="true" />
