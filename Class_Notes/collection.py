@@ -1,4 +1,43 @@
 # collection
+
+class queue:
+    def __init__(self):
+        self.data = []
+
+    def enqueue(self, item):
+        self.data.append(item)
+
+    def dequeue(self):
+        end_code = "\033[00m"
+        red = "\033[0;31m"
+        if self.data:
+            item = self.data[0]
+            self.data = self.data[1:]
+            return item
+        else:
+            return f"{red}[ERROR] Queue out of index{end_code}"
+
+    def __repr__(self):
+        return f"<Queue> {self.data}"
+
+
+queue = queue()
+queue.enqueue("test")
+print(queue.__repr__())
+queue.enqueue("test 1")
+print(queue.__repr__())
+print(queue.dequeue())
+print(queue.__repr__())
+print(queue.dequeue())
+print(queue.__repr__())
+print(queue.dequeue())
+print(queue.__repr__())
+queue.enqueue("test 2")
+print(queue.__repr__())
+print(queue.dequeue())
+print(queue.__repr__())
+
+
 class collection:
     def __init__(self):
         self.data = []
@@ -41,4 +80,3 @@ x.addItem('john')
 print(x.getNext())
 x.removeLast()
 print(x.getNext())
-

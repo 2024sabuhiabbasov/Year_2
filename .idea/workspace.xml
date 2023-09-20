@@ -9,6 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43e79805-6c70-430a-8db7-de09f7e6990f" name="Changes" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzes/Codes/quiz_080.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_080.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +234,7 @@
       <workItem from="1694140223139" duration="5774000" />
       <workItem from="1694474479591" duration="14196000" />
       <workItem from="1694755927043" duration="2681000" />
-      <workItem from="1695078109995" duration="2092000" />
+      <workItem from="1695078109995" duration="3109000" />
     </task>
     <task id="LOCAL-00001" summary="UPDATE quiz069.md">
       <option name="closed" value="true" />
@@ -288,6 +289,6 @@
     <SUITE FILE_PATH="coverage/Year_2$quiz_072.coverage" NAME="quiz_072 Coverage Results" MODIFIED="1694155203363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Quizzes/Codes" />
     <SUITE FILE_PATH="coverage/Year_2$quiz_075.coverage" NAME="quiz_075 Coverage Results" MODIFIED="1694476883427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Quizzes/Codes" />
     <SUITE FILE_PATH="coverage/Year_2$main.coverage" NAME="main Coverage Results" MODIFIED="1692673873265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Year_2$quiz_079.coverage" NAME="quiz_079 Coverage Results" MODIFIED="1694757236533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Quizzes/Codes" />
+    <SUITE FILE_PATH="coverage/Year_2$quiz_079.coverage" NAME="quiz_079 Coverage Results" MODIFIED="1695081598687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Quizzes/Codes" />
   </component>
 </project>
