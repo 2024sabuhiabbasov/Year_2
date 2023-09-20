@@ -23,19 +23,19 @@ class queue:
 
 queue = queue()
 queue.enqueue("test")
-print(queue.__repr__())
+print(queue)
 queue.enqueue("test 1")
-print(queue.__repr__())
+print(queue)
 print(queue.dequeue())
-print(queue.__repr__())
+print(queue)
 print(queue.dequeue())
-print(queue.__repr__())
+print(queue)
 print(queue.dequeue())
-print(queue.__repr__())
+print(queue)
 queue.enqueue("test 2")
-print(queue.__repr__())
+print(queue)
 print(queue.dequeue())
-print(queue.__repr__())
+print(queue)
 
 
 class collection:
