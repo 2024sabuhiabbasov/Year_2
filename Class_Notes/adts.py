@@ -1,4 +1,31 @@
-# collection
+class stack:
+    def __init__(self):
+        self.data = []
+
+    def pop(self):
+        l = len(self.data)
+        end_code = "\033[00m"
+        red = "\033[0;31m"
+        if self.data:
+            item = self.data[l - 1]
+            self.data = self.data[:l - 1]
+        else:
+            item = f"{red}[ERROR] Stack out of index{end_code}"
+        return item
+
+    def push(self, item):
+        data = [item]
+        self.data = data + self.data
+
+    def __repr__(self):
+        return f"<Stack> {self.data}"
+
+stack = stack()
+stack.push(1)
+print(stack)
+print(stack.pop())
+print(stack.pop())
+
 
 class queue:
     def __init__(self):
