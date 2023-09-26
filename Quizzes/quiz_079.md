@@ -1,4 +1,5 @@
 # Quiz 079
+<img width="max" alt="Screenshot 2023-09-26 at 16 09 25" src="https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/a41f915b-f0ae-4d24-8d9d-f060aaedba5b">
 
 ## Solution
 ![IMG_4363](https://github.com/2024sabuhiabbasov/Year_2/assets/111758436/82800cd3-e72e-43fd-8f43-29baa811a3d9)
