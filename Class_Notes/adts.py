@@ -20,11 +20,12 @@ class stack:
     def __repr__(self):
         return f"<Stack> {self.data}"
 
-stack = stack()
-stack.push(1)
-print(stack)
-print(stack.pop())
-print(stack.pop())
+#
+# stack = stack()
+# stack.push(1)
+# print(stack)
+# print(stack.pop())
+# print(stack.pop())
 
 
 class queue:
@@ -48,21 +49,21 @@ class queue:
         return f"<Queue> {self.data}"
 
 
-queue = queue()
-queue.enqueue("test")
-print(queue)
-queue.enqueue("test 1")
-print(queue)
-print(queue.dequeue())
-print(queue)
-print(queue.dequeue())
-print(queue)
-print(queue.dequeue())
-print(queue)
-queue.enqueue("test 2")
-print(queue)
-print(queue.dequeue())
-print(queue)
+# queue = queue()
+# queue.enqueue("test")
+# print(queue)
+# queue.enqueue("test 1")
+# print(queue)
+# print(queue.dequeue())
+# print(queue)
+# print(queue.dequeue())
+# print(queue)
+# print(queue.dequeue())
+# print(queue)
+# queue.enqueue("test 2")
+# print(queue)
+# print(queue.dequeue())
+# print(queue)
 
 
 class collection:
@@ -99,11 +100,50 @@ class collection:
 
 
 # imagining  how the user would use our ADI
-x = collection()
-x.addItem('bob')
-print(x.hasNext())
-print(x.getNext())
-x.addItem('john')
-print(x.getNext())
-x.removeLast()
-print(x.getNext())
+# x = collection()
+# x.addItem('bob')
+# print(x.hasNext())
+# print(x.getNext())
+# x.addItem('john')
+# print(x.getNext())
+# x.removeLast()
+# print(x.getNext())
+
+
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+    def __repr__(self):
+        out_str = f"Node[{self.data}]"
+        temp = self.next
+        while temp is not None:
+            out_str += f"->Node[{temp.data}]"
+            temp = temp.next
+        return out_str
+
+    def addNode(self, node):
+        if self.next:
+            temp = self.next
+            node.next = temp
+            self.next = node
+
+        else:
+            self.next = node
+
+
+my_list = Node("alice")
+print(my_list)
+bob_node = Node("bob")
+my_list.addNode(bob_node)
+print(my_list)
+amy_node = Node("amy")
+carl_node = Node("carl")
+cam_node = Node("cam")
+
+my_list.next.addNode(carl_node)
+my_list.addNode(amy_node)
+my_list.next.next.addNode(cam_node)
+
+print(my_list)
