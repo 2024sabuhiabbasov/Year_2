@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e79805-6c70-430a-8db7-de09f7e6990f" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzes/Codes/quiz_087.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +230,8 @@
       <workItem from="1698103863756" duration="1733000" />
       <workItem from="1698206766511" duration="1450000" />
       <workItem from="1698386341692" duration="1580000" />
-      <workItem from="1698390468638" duration="588000" />
+      <workItem from="1698390468638" duration="610000" />
+      <workItem from="1698712168642" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="UPDATE quiz069.md">
       <option name="closed" value="true" />
